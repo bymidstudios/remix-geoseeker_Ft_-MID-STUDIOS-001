@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix GeoSeeker",
+  "description": "Play hide and seek against Gemini on Google Maps. Use streetview images and directional clues to guess where Gemini is hiding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
